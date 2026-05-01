@@ -2,7 +2,7 @@ import { useRef } from 'react';
 import { motion, useInView } from 'motion/react';
 import { RealisticHandwriting } from '../../ui/RealisticHandwriting';
 
-const letterContent = `My Dearest,
+const letterContent = `My Dearest Chlooo,
 
 Looking back at these past two years, I am filled with so much gratitude. Thank you for being my rock, my best friend, and my home. Every day with you is a new adventure, and I wouldn't want to walk this path with anyone else.
 
