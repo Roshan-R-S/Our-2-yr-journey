@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Our 2 Year Journey 💕
 
-# Run and deploy your AI Studio app
+A personal, immersive web experience celebrating two years of love — built with React, GSAP, and Three.js.
 
-This contains everything you need to run your app locally.
+## Sections
 
-View your app in AI Studio: https://ai.studio/apps/c0663e10-5913-4354-8714-79050770672b
+- **Hero** — Opening cinematic with a particle scene and scroll indicator
+- **Melodic Memories** — A vinyl-style music player with 6 Tamil songs, real cover art extracted from MP3 metadata, and live time sync
+- **Virtual Bouquet** — An interactive bouquet of flowers representing shared dreams
+- **Reasons** — 20 heartfelt reasons, beautifully animated
+- **Moments Captured** — A photo gallery of real memories
+- **Love Letter** — A handwritten-style personal letter
+
+## Tech Stack
+
+- React + TypeScript
+- Vite
+- Tailwind CSS v4
+- GSAP (ScrollTrigger animations)
+- Three.js (particle scene)
+- Framer Motion
+- Lenis (smooth scrolling)
+- music-metadata (MP3 cover art & duration extraction)
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```
+   npm install
+   ```
+2. Run the app:
+   ```
+   npm run dev
+   ```
+3. Open [http://localhost:3000](http://localhost:3000)
